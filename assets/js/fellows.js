@@ -1,5 +1,3 @@
-// Consists of data of each fellow necessary for rendering the map
-
 export const fellows = [
     {
       "fullName": "Garvit varshney",
